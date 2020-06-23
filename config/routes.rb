@@ -1,4 +1,1 @@
-Rails.application.routes.draw do
-  resources :posts
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
-end
+EXPR_CMDARGEXPR_DOTEXPR_ARGEXPR_DOTEXPR_ARGEXPR_DOTEXPR_ARGEXPR_ARGEXPR_BEGEXPR_BEG	EXPR_BEGEXPR_CMDARGEXPR_CMDARGEXPR_FNAMEEXPR_ENDFNEXPR_BEG	EXPR_BEGEXPR_BEGEXPR_ENDEXPR_BEG

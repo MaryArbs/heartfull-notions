@@ -1,5 +1,1 @@
-# Load the Rails application.
-require_relative 'application'
-
-# Initialize the Rails application.
-Rails.application.initialize!
+EXPR_BEGEXPR_CMDARGEXPR_CMDARGEXPR_CMDARGEXPR_CMDARGEXPR_ENDEXPR_BEGEXPR_BEGEXPR_BEGEXPR_CMDARGEXPR_DOTEXPR_ARGEXPR_DOTEXPR_ARGEXPR_BEG
